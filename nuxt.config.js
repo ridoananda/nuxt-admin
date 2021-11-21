@@ -9,7 +9,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Do - Admin Panel',
+    title: 'Nuxt Vuetify - Admin Panel',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -20,7 +20,7 @@ export default {
   },
 
   router: {
-    base: '/dist',
+    base: '/dist/',
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/main.scss'],
